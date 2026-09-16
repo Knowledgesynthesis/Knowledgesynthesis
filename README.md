@@ -9,4 +9,4 @@ His work includes developing logistic regression validated risk prediction calcu
 ## Connect with Dr. Bashar Hasan:
 - Twitter: [@BasharHasanMD](https://x.com/BasharHasanMD)
 - LinkedIn: [Bashar Hasan](https://www.linkedin.com/in/bashar-hasan-56490394/)
-- Personal Website: [Methodology Essentials](https://sites.google.com/view/methodology-essentials)
+- Personal Website: [Methodology Essentials](https://knowledgesynthesis.github.io/CV/)
